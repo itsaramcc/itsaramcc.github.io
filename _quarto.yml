@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Michael McCarthy" 
+  site-url: https://itsaramcc.github.io
+  description: "This is Michael McCarthy's personal Blog."
+  navbar:
+    right:
+      - text: Blog
+        href: blog.qmd 
+      - icon: github
+        href: https://github.com/itsaramcc
+      - icon: rss
+        href: blog.xml
+      - text: Archive
+        href: archive.qmd
+  google-analytics: <Insert your ID here>
+  cookie-consent: true
+
+format:
+  html:
+      light: flatly
+      dark: darkly
+
+
+
