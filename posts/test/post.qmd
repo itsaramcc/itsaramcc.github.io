@@ -1,0 +1,8 @@
+---
+title: "Test Post"
+date: "2024-05-15"
+categories: [news]
+---
+
+# Test Post
+This is a test post.
