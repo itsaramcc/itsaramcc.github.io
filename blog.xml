@@ -12,6 +12,27 @@
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Wed, 15 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Test Post</title>
+  <dc:creator>Michael McCarthy</dc:creator>
+  <link>https://itsaramcc.github.io/posts/test/post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="test-post" class="level1">
+<h1>Test Post</h1>
+<p>This is a test post.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://itsaramcc.github.io/posts/test/post.html</guid>
+  <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://itsaramcc.github.io/posts/post-with-code/post.html</link>

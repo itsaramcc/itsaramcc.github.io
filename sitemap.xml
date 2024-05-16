@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://itsaramcc.github.io/archive.html</loc>
-    <lastmod>2024-05-16T05:30:41.691Z</lastmod>
+    <lastmod>2024-05-16T05:35:33.119Z</lastmod>
   </url>
   <url>
     <loc>https://itsaramcc.github.io/posts/post-with-code/post.html</loc>
-    <lastmod>2024-05-16T05:30:41.691Z</lastmod>
-  </url>
-  <url>
-    <loc>https://itsaramcc.github.io/blog.html</loc>
-    <lastmod>2024-05-16T05:30:41.691Z</lastmod>
+    <lastmod>2024-05-16T05:35:33.123Z</lastmod>
   </url>
   <url>
     <loc>https://itsaramcc.github.io/index.html</loc>
-    <lastmod>2024-05-16T05:30:41.691Z</lastmod>
+    <lastmod>2024-05-16T05:35:33.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsaramcc.github.io/blog.html</loc>
+    <lastmod>2024-05-16T05:35:33.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsaramcc.github.io/posts/test/post.html</loc>
+    <lastmod>2024-05-16T05:35:33.123Z</lastmod>
   </url>
   <url>
     <loc>https://itsaramcc.github.io/posts/welcome/post.html</loc>
-    <lastmod>2024-05-16T05:30:41.691Z</lastmod>
+    <lastmod>2024-05-16T05:35:33.123Z</lastmod>
   </url>
 </urlset>
