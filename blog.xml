@@ -9,8 +9,8 @@
 <link>https://itsaramcc.github.io/blog.html</link>
 <atom:link href="https://itsaramcc.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Michael McCarthy&#39;s personal Blog.</description>
-<generator>quarto-1.4.550</generator>
-<lastBuildDate>Wed, 15 May 2024 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Wed, 15 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -29,7 +29,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://itsaramcc.github.io/posts/post-with-code/post.html</guid>
-  <pubDate>Wed, 15 May 2024 07:00:00 GMT</pubDate>
+  <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
   <media:content url="https://itsaramcc.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -52,7 +52,7 @@
  ]]></description>
   <category>news</category>
   <guid>https://itsaramcc.github.io/posts/welcome/post.html</guid>
-  <pubDate>Sun, 12 May 2024 07:00:00 GMT</pubDate>
+  <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
