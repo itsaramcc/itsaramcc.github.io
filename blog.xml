@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Michael McCarthy</title>
+<link>https://itsaramcc.github.io/blog.html</link>
+<atom:link href="https://itsaramcc.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is Michael McCarthy&#39;s personal Blog.</description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Wed, 15 May 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://itsaramcc.github.io/posts/post-with-code/post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://itsaramcc.github.io/posts/post-with-code/post.html</guid>
+  <pubDate>Wed, 15 May 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://itsaramcc.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://itsaramcc.github.io/posts/welcome/post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="this-is-the-first-post-in-a-quarto-blog.-welcome" class="level1">
+<h1>This is the first post in a Quarto blog. Welcome!</h1>
+<p><img src="https://itsaramcc.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://itsaramcc.github.io/posts/welcome/post.html</guid>
+  <pubDate>Sun, 12 May 2024 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
