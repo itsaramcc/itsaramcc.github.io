@@ -1,5 +1,4 @@
 ---
-title: "itsaramcc-blog"
 listing:
   contents: posts
   sort: "date desc"
@@ -13,4 +12,4 @@ page-layout: full
 title-block-banner: false
 ---
 
-
+# Blog

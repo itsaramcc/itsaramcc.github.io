@@ -1,7 +1,10 @@
 ---
-title: "Test Post"
-date: "2024-05-15"
+title: 'Test Post'
+date: '2024-05-15'
+date-modified: '2024-05-17'
+description: 'This is a test post'
 categories: [news]
+draft: false
 ---
 
 # Test Post
