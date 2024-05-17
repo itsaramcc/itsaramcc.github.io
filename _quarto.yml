@@ -13,6 +13,8 @@ website:
         href: blog.qmd 
       - icon: github
         href: https://github.com/itsaramcc
+      - icon: linkedin
+        href: https://www.linkedin.com/in/itsaramcc/
       - icon: rss
         href: blog.xml
       - text: Archive
@@ -22,8 +24,9 @@ website:
 
 format:
   html:
-      light: flatly
-      dark: darkly
+    theme: 
+      light: [flatly, theme.scss]
+      dark: [darkly, theme.scss]
 
 
 

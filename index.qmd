@@ -2,11 +2,14 @@
 title: 'Michael McCarthy'
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
       href: https://github.com/itsaramcc
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/itsaramcc/
 
 ---
 
