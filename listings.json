@@ -1,17 +1,17 @@
 [
   {
-    "listing": "/archive.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/test/post.html",
       "/posts/post-with-code/post.html",
+      "/posts/test/post.html",
       "/posts/welcome/post.html"
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/archive.html",
     "items": [
-      "/posts/test/post.html",
       "/posts/post-with-code/post.html",
+      "/posts/test/post.html",
       "/posts/welcome/post.html"
     ]
   }

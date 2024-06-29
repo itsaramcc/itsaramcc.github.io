@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://itsaramcc.github.io/archive.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://itsaramcc.github.io/posts/post-with-code/post.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
+    <loc>https://itsaramcc.github.io/blog.html</loc>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
   </url>
   <url>
     <loc>https://itsaramcc.github.io/index.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://itsaramcc.github.io/blog.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://itsaramcc.github.io/posts/test/post.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
   </url>
   <url>
     <loc>https://itsaramcc.github.io/posts/welcome/post.html</loc>
-    <lastmod>2024-05-17T17:26:53.004Z</lastmod>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsaramcc.github.io/posts/post-with-code/post.html</loc>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsaramcc.github.io/posts/test/post.html</loc>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsaramcc.github.io/archive.html</loc>
+    <lastmod>2024-06-29T20:42:39.876Z</lastmod>
   </url>
 </urlset>
