@@ -1,7 +1,10 @@
 name: Deploy to Amazon S3
 
 on:
-  deployment
+  workflow_run:
+    workflows: ['Quarto Publish']
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -16,7 +19,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        ref: gh-pages
+        ref: 'gh-pages'
 
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v1
