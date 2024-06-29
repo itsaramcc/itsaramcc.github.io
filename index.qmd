@@ -16,7 +16,3 @@ about:
 I am a 3rd Year Computer Science student at Texas A&M University.
 
 I enjoy collaborating with others and working on technical projects such as Emulators and API Servers.
-
-More Stuff
-
-Even More Stuff
