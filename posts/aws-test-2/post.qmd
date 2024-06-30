@@ -1,0 +1,10 @@
+---
+title: 'AWS Test 2'
+date: '2024-06-30'
+description: 'This is a test post'
+categories: [news]
+draft: false
+---
+
+# AWS Test 2
+This post is used to test the relation between AWS S3 and AWS CloudFront.
