@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 29, 2024\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAWS Test 2\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 30, 2024\n\n\n1 min\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 29, 2024\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -28,6 +28,13 @@
     "text": "AWS Test 1\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
   },
   {
+    "objectID": "posts/aws-test-2/post.html",
+    "href": "posts/aws-test-2/post.html",
+    "title": "AWS Test 2",
+    "section": "",
+    "text": "AWS Test 2\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
+  },
+  {
     "objectID": "posts/post-with-code/post.html",
     "href": "posts/post-with-code/post.html",
     "title": "Post With Code",
@@ -46,6 +53,6 @@
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "AWS Test 1\n\n\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "AWS Test 2\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
