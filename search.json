@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAWS Test 2\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 30, 2024\n\n\n1 min\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 29, 2024\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAWS Test 2\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 30, 2024\n\n\n1 min\n\n\n\n\n\n\n\nAWS Test 3\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 30, 2024\n\n\n1 min\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 29, 2024\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -14,32 +14,11 @@
     "text": "I am a 3rd Year Computer Science student at Texas A&M University.\nI enjoy collaborating with others and working on technical projects such as Emulators and API Servers."
   },
   {
-    "objectID": "posts/welcome/post.html",
-    "href": "posts/welcome/post.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/aws-test-3/post.html",
+    "href": "posts/aws-test-3/post.html",
+    "title": "AWS Test 3",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/aws-test-1/post.html",
-    "href": "posts/aws-test-1/post.html",
-    "title": "AWS Test 1",
-    "section": "",
-    "text": "AWS Test 1\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
-  },
-  {
-    "objectID": "posts/aws-test-2/post.html",
-    "href": "posts/aws-test-2/post.html",
-    "title": "AWS Test 2",
-    "section": "",
-    "text": "AWS Test 2\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
-  },
-  {
-    "objectID": "posts/post-with-code/post.html",
-    "href": "posts/post-with-code/post.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "AWS Test 3\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
   },
   {
     "objectID": "posts/test/post.html",
@@ -49,10 +28,38 @@
     "text": "Test Post\nThis is a test post."
   },
   {
+    "objectID": "posts/post-with-code/post.html",
+    "href": "posts/post-with-code/post.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/aws-test-2/post.html",
+    "href": "posts/aws-test-2/post.html",
+    "title": "AWS Test 2",
+    "section": "",
+    "text": "AWS Test 2\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
+  },
+  {
+    "objectID": "posts/aws-test-1/post.html",
+    "href": "posts/aws-test-1/post.html",
+    "title": "AWS Test 1",
+    "section": "",
+    "text": "AWS Test 1\nThis post is used to test the relation between AWS S3 and AWS CloudFront."
+  },
+  {
+    "objectID": "posts/welcome/post.html",
+    "href": "posts/welcome/post.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "AWS Test 2\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "AWS Test 2\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\n\nAWS Test 3\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\n\nAWS Test 1\n\n\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
