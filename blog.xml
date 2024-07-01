@@ -10,70 +10,7 @@
 <atom:link href="https://itsaramcc.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Michael McCarthy&#39;s personal Blog.</description>
 <generator>quarto-1.4.557</generator>
-<lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>AWS Test 2</title>
-  <dc:creator>Michael McCarthy</dc:creator>
-  <link>https://itsaramcc.github.io/posts/aws-test-2/post.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="aws-test-2" class="level1">
-<h1>AWS Test 2</h1>
-<p>This post is used to test the relation between AWS S3 and AWS CloudFront.</p>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://itsaramcc.github.io/posts/aws-test-2/post.html</guid>
-  <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>AWS Test 3</title>
-  <dc:creator>Michael McCarthy</dc:creator>
-  <link>https://itsaramcc.github.io/posts/aws-test-3/post.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="aws-test-3" class="level1">
-<h1>AWS Test 3</h1>
-<p>This post is used to test the relation between AWS S3 and AWS CloudFront.</p>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://itsaramcc.github.io/posts/aws-test-3/post.html</guid>
-  <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>AWS Test 1</title>
-  <dc:creator>Michael McCarthy</dc:creator>
-  <link>https://itsaramcc.github.io/posts/aws-test-1/post.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="aws-test-1" class="level1">
-<h1>AWS Test 1</h1>
-<p>This post is used to test the relation between AWS S3 and AWS CloudFront.</p>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://itsaramcc.github.io/posts/aws-test-1/post.html</guid>
-  <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Wed, 15 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>

@@ -2,9 +2,6 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/aws-test-2/post.html",
-      "/posts/aws-test-3/post.html",
-      "/posts/aws-test-1/post.html",
       "/posts/post-with-code/post.html",
       "/posts/test/post.html",
       "/posts/welcome/post.html"
@@ -13,9 +10,6 @@
   {
     "listing": "/archive.html",
     "items": [
-      "/posts/aws-test-2/post.html",
-      "/posts/aws-test-3/post.html",
-      "/posts/aws-test-1/post.html",
       "/posts/post-with-code/post.html",
       "/posts/test/post.html",
       "/posts/welcome/post.html"
