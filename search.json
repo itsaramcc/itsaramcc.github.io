@@ -4,14 +4,14 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAWS Test Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nJun 30, 2024\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\nnews\n\n\n\nThis is a test post\n\n\n\n\n\nMay 15, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael McCarthy",
     "section": "",
-    "text": "I am a 3rd Year Computer Science student at Texas A&M University.\nI enjoy collaborating with others and working on technical projects such as Emulators and API Servers.\nMore stuff"
+    "text": "I am a 3rd Year Computer Science student at Texas A&M University.\nI enjoy collaborating with others and working on technical projects such as Emulators and API Servers.\nMore stuff\nEven more stuff"
   },
   {
     "objectID": "posts/welcome/post.html",
@@ -19,6 +19,13 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/aws-test-1/post.html",
+    "href": "posts/aws-test-1/post.html",
+    "title": "AWS Test Post",
+    "section": "",
+    "text": "AWS Test 1\nThis is a test post."
   },
   {
     "objectID": "posts/post-with-code/post.html",
@@ -39,6 +46,6 @@
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "AWS Test Post\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nTest Post\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
